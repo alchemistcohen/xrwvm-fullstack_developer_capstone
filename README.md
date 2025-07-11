@@ -29,4 +29,4 @@ IBM Cloud account
 Python (with pip)
 Node.js (with npm)
 
-![image](deployed_loggedin.png)
+![image](https://github.com/alchemistcohen/xrwvm-fullstack_developer_capstone/blob/main/deployed_loggedin.png)
